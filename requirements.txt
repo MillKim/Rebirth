@@ -1,0 +1,7 @@
+streamlit
+pandas
+seaborn
+Image
+random
+matplotlib
+os
